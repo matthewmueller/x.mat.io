@@ -1,7 +1,0 @@
-Server started on port 8601
-mon : write mon pid to pids/x2.mon.pid
-mon : child 18983
-mon : write pid to pids/x2.pid
-mon : shutting down
-mon : kill(-18982, 3)
-mon : bye :)
