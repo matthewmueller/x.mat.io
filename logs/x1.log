@@ -1,0 +1,51 @@
+Server started on port 8600
+Error: Invalid URI "favicon.ico"
+    at Request.init (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:203:24)
+    at new Request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:124:8)
+    at request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:1230:11)
+    at /Users/Matt/Projects/x.mat.io/index.js:21:12
+    at callbacks (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:161:37)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:135:11)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:132:11)
+    at pass (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:33:10)
+Error: Invalid URI "favicon.ico"
+    at Request.init (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:203:24)
+    at new Request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:124:8)
+    at request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:1230:11)
+    at /Users/Matt/Projects/x.mat.io/index.js:21:12
+    at callbacks (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:161:37)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:135:11)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:132:11)
+    at pass (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:33:10)
+Error: Invalid URI "favicon.ico"
+    at Request.init (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:203:24)
+    at new Request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:124:8)
+    at request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:1230:11)
+    at /Users/Matt/Projects/x.mat.io/index.js:21:12
+    at callbacks (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:161:37)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:135:11)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:132:11)
+    at pass (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:33:10)
+Error: Invalid URI "favicon.ico"
+    at Request.init (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:203:24)
+    at new Request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:124:8)
+    at request (/Users/Matt/Projects/x.mat.io/node_modules/request/index.js:1230:11)
+    at /Users/Matt/Projects/x.mat.io/index.js:21:12
+    at callbacks (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:161:37)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:135:11)
+    at param (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:132:11)
+    at pass (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:142:5)
+    at Router._dispatch (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:170:5)
+    at Object.router (/Users/Matt/Projects/x.mat.io/node_modules/express/lib/router/index.js:33:10)
+mon : write mon pid to pids/x1.mon.pid
+mon : child 18981
+mon : write pid to pids/x1.pid
+mon : shutting down
+mon : kill(-18979, 3)
+mon : bye :)
