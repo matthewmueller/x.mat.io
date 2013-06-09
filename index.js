@@ -5,7 +5,6 @@
 var express = require('express');
 var app = module.exports = express();
 var request = require('request');
-var inline = require('inline');
 
 /**
  * CORS
